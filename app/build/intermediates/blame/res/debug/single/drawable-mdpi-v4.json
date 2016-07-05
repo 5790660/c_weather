@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\zhongyu.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\zhongyu.png"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\xiaoxue.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\xiaoxue.png"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\leizhenyu.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\leizhenyu.png"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\qing.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\qing.png"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\yujiaxue.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\yujiaxue.png"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\zhongxue.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\zhongxue.png"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\xiaoyu.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\xiaoyu.png"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\yin.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\yin.png"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\daxue.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\daxue.png"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tedabaoyu.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\tedabaoyu.png"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dayu.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\dayu.png"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\zhenyu.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\zhenyu.png"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\baoyu.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\baoyu.png"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shijing_item.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\shijing_item.png"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\duoyun.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\duoyun.png"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dabaoyu.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\dabaoyu.png"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\title_left.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\title_left.png"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\zhenxue.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\zhenxue.png"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\other.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\other.png"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\weather_item.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\weather_item.png"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\baoxue.png",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\drawable-mdpi\\baoxue.png"
+    }
+]

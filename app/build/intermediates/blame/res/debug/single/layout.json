@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_weather.xml",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\layout\\fragment_weather.xml"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\left_list_item.xml",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\layout\\left_list_item.xml"
+    },
+    {
+        "merged": "C:\\Android Studio WorkSpace\\c_wather\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Android Studio WorkSpace\\c_wather\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

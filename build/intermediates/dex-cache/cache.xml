@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Android Studio WorkSpace\c_wather\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0e3891e5126ef8faef70c97b0eb2bdfccfdae2ca">
+        <dex dex="C:\Android Studio WorkSpace\c_wather\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_25de0610522d5c93a20e5a7a9d2db6b39db3e0bd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android Studio WorkSpace\c_wather\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="48f5940d6172d51bb497b8bc18eeb18e4e4c26f6">
+        <dex dex="C:\Android Studio WorkSpace\c_wather\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f79213b9464f8c7834aa1b7a9b590dcd162cd4f2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android Studio WorkSpace\c_wather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Android Studio WorkSpace\c_wather\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_a458ae4cd7c320e7e4af0cbe9c98cfbb8796a730\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android Studio WorkSpace\c_wather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Android Studio WorkSpace\c_wather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_bcd8aec1107a60976916b9b7ba8a975e5be9ae9d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Android Studio WorkSpace\c_wather\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_f6126d844204af6518b3b626ef25769c1f8a5482\classes.dex" />
+    </item>
+
+</items>

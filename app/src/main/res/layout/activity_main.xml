@@ -1,0 +1,77 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="10"
+        android:orientation="horizontal"
+        android:background="#427fed"
+        >
+        
+        <ImageButton 
+		android:id="@+id/imageButton"
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:layout_weight="8"
+		android:background="@drawable/title_left"
+		>
+		</ImageButton>
+        
+        <TextView
+        android:layout_width="fill_parent"  
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+        android:text="@string/cube_weather"
+        android:layout_gravity="center"
+        android:textColor="#fff"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:id="@+id/placeName"
+            />
+
+    </LinearLayout>
+    
+    
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        android:layout_weight="1"
+        >
+        
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+       >
+    
+    <RelativeLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/main"
+    tools:context=".MainActivity" >
+	</RelativeLayout>
+	
+   
+    
+    <ListView
+            android:id="@+id/left_drawer"
+            android:layout_width="240dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:background="#111"
+            android:choiceMode="singleChoice"
+            android:divider="@android:color/white"
+            android:dividerHeight="2dp" />
+    
+    </android.support.v4.widget.DrawerLayout>
+    
+    </LinearLayout>
+    
+</LinearLayout>
+

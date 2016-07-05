@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+       <LinearLayout
+           xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/content_frame"
+           	android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    android:orientation="vertical"
+		    android:background="#fff">
+            
+            <RelativeLayout 
+		        android:id="@+id/firstPart"
+		        android:layout_width="match_parent"
+		        android:layout_height="0dp"
+		        android:layout_weight="1.8"
+		        android:layout_margin="2dp"
+		        android:background="#fba623">
+
+		        <TextView
+		            android:id="@+id/firstPartTextView1"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_alignParentLeft="true"
+		            android:textSize="28sp"
+		            android:textStyle="bold"
+		            android:fontFamily="Consolas"
+		            android:paddingLeft="10dp"
+		            android:textColor="#ffffff"
+		             />
+
+		        <TextView
+		            android:id="@+id/firstPartTextView2"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_alignParentRight="true"
+		            android:layout_alignParentTop="true"
+		            android:textSize="28sp"
+		            android:textStyle="bold"
+		            android:fontFamily="Consolas"
+		            android:textColor="#ffffff"
+		            android:paddingRight="10dp"
+		             />
+
+		        <ImageView
+		            android:id="@+id/firstPartTextImg"
+		            android:layout_width="match_parent"
+		            android:layout_height="match_parent"
+		            android:layout_centerHorizontal="true"
+		            android:layout_centerVertical="true"
+		            />
+        
+    		</RelativeLayout>
+    
+		    <RelativeLayout 
+		        android:id="@+id/secendPartOne"
+		        android:layout_width="match_parent"
+		        android:layout_height="0dp"
+		        android:layout_weight="1"
+		        android:layout_margin="2dp"
+		        android:background="#f8ca14">
+		
+		        <TextView
+		            android:id="@+id/secendPartOneTextView1"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_centerHorizontal="true"
+		            android:layout_centerVertical="true"
+		            style="@style/weatherListItemT"
+		             />
+		
+		        <TextView
+		            android:id="@+id/secendPartOneTextView2"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_alignParentRight="true"
+		            android:layout_centerVertical="true"
+		             style="@style/weatherListItemD"
+		             />
+		
+		        <ImageView
+		            android:id="@+id/secendPartOneImg"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_alignParentLeft="true"
+		            android:layout_centerVertical="true"
+		            android:layout_marginLeft="-46dp"
+		             />
+		        
+		    </RelativeLayout>
+		    <RelativeLayout 
+		        android:id="@+id/secendPartTwo"
+		        android:layout_width="match_parent"
+		        android:layout_height="0dp"
+		        android:layout_weight="1"
+		        android:layout_margin="2dp"
+		        android:background="#00c1fc">
+		
+		        <ImageView
+		            android:id="@+id/secendPartTwoImg"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_alignParentLeft="true"
+		            android:layout_centerVertical="true"
+		            android:layout_marginLeft="-46dp"
+		             />
+		
+		        <TextView
+		            android:id="@+id/secendPartTwoTextView1"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_centerHorizontal="true"
+		            android:layout_centerVertical="true"
+		             style="@style/weatherListItemT"
+		             />
+		
+		        <TextView
+		            android:id="@+id/secendPartTwoTextView2"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_alignParentRight="true"
+		            android:layout_centerVertical="true"
+		             style="@style/weatherListItemD"
+		             />
+		        
+		    </RelativeLayout>
+		    <RelativeLayout 
+		        android:id="@+id/secendPartThree"
+		        android:layout_width="match_parent"
+		        android:layout_height="0dp"
+		        android:layout_weight="1"
+		        android:layout_margin="2dp"
+		        android:background="#afee2e">
+		
+		        <ImageView
+		            android:id="@+id/secendPartThreeImg"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_alignParentLeft="true"
+		            android:layout_centerVertical="true"
+		            android:layout_marginLeft="-46dp"
+		             />
+		
+		        <TextView
+		            android:id="@+id/secendPartThreeTextView1"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_centerHorizontal="true"
+		            android:layout_centerVertical="true"
+		             style="@style/weatherListItemT"
+		            />
+		
+		        <TextView
+		            android:id="@+id/secendPartThreeTextView2"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_alignParentRight="true"
+		            android:layout_centerVertical="true"
+		             style="@style/weatherListItemD"
+		            />
+		        
+		    </RelativeLayout>
+		    <RelativeLayout 
+		        android:id="@+id/secendPartFour"
+		        android:layout_width="match_parent"
+		        android:layout_height="0dp"
+		        android:layout_weight="1"
+		        android:layout_margin="2dp"
+		        android:background="#f7911e">
+		
+		        <ImageView
+		            android:id="@+id/secendPartFourImg"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_alignParentLeft="true"
+		            android:layout_centerVertical="true"
+		            android:layout_marginLeft="-46dp"
+		             />
+		
+		        <TextView
+		            android:id="@+id/secendPartFourTextView1"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_centerHorizontal="true"
+		            android:layout_centerVertical="true"
+		             style="@style/weatherListItemT"
+		             />
+		
+		        <TextView
+		            android:id="@+id/secendPartFourTextView2"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:layout_alignParentRight="true"
+		            android:layout_centerVertical="true"
+		             style="@style/weatherListItemD"
+		             />
+		        
+		    </RelativeLayout>
+</LinearLayout>
